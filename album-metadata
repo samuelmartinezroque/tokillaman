@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>To Kill a Man – Samuel Quinyones</title>
+  <meta name="description" content="The debut album by Samuel Quinyones, 'To Kill a Man' – a 12-track indie folk journey through grief, identity, and survival.">
+  <link rel="icon" href="https://lh3.googleusercontent.com/0mrTxZHDxnmaZhTZ1FHBT5oHfez0QZo-XhK9I8-achskPw067TbKKWuh5TeIgDvTg7PdPcU8PalEkEGZr1MkBcbU2OPKdSsUk7Kb3iLsLbpKLDKP5yhkn3hv4rSjSQk_8uiVmzMCMHE=w1280">
+
+  <!-- JSON-LD for Google Indexing -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "name": "To Kill a Man",
+    "albumProductionType": "StudioAlbum",
+    "genre": ["Indie Folk"],
+    "inLanguage": ["English", "Spanish", "Italian"],
+    "numTracks": 12,
+    "duration": "PT44M0S",
+    "datePublished": "2024-09-21",
+    "image": "https://lh3.googleusercontent.com/0mrTxZHDxnmaZhTZ1FHBT5oHfez0QZo-XhK9I8-achskPw067TbKKWuh5TeIgDvTg7PdPcU8PalEkEGZr1MkBcbU2OPKdSsUk7Kb3iLsLbpKLDKP5yhkn3hv4rSjSQk_8uiVmzMCMHE=w1280",
+    "byArtist": {
+      "@type": "MusicGroup",
+      "name": "Samuel Quinyones",
+      "sameAs": [
+        "Samuel",
+        "To Kill a Man",
+        "https://www.tokillaman.com",        
+        "https://www.instagram.com/samuelquinyones",
+        "https://www.tiktok.com/@samuelquinyones",
+        "https://www.youtube.com/@SamuelQuinyones",
+        "https://open.spotify.com/artist/0QUVP2JZsaBUWe2a8RSzcQ",
+        "https://music.apple.com/us/artist/samuel-quinyones/1735092277",
+        "https://music.youtube.com/channel/UCG8S7kdZ_Zr50ZWGwm3GByg",
+        "https://music.amazon.com/artists/B0CXLXF7FL/samuel-quinyones",
+        "https://www.pandora.com/artist/samuel-quinyones/ARz9wwvPwXbJq5J",
+        "https://dzr.page.link/GLJh1bFCGNmTMrNs8",
+        "https://tidal.com/browse/artist/46360361/u",
+        "https://www.iheart.com/artist/samuel-quinyones-42568802/",
+        "https://play.qobuz.com/artist/21721531",
+        "https://genius.com/artists/Samuel-quinyones",
+        "https://musicbrainz.org/artist/53f40adc-5fff-46ee-9b05-ebaee73dd957",
+        "https://www.instagram.com/tok_llaman",
+        "https://www.facebook.com/tok.llaman",
+        "https://www.tiktok.com/@tok_llaman",
+        "https://x.com/tok_llaman",
+        "https://audio.com/tok_llaman",
+        "https://tokillaman.bandcamp.com",
+        "https://soundcloud.com/tok_llaman"
+      ]
+    },
+    "recordLabel": {
+      "@type": "Organization",
+      "name": "Independent"
+    },
+    "isrcCode": [
+      "QZWFH2406804", "QZWFH2406805", "QZWFH2406806", "QZWFH2406807",
+      "QZWFH2406809", "QZWFH2406810", "QZWFH2406811", "QZWFH2406812",
+      "QZWFH2406813", "QZWFH2406814", "QZWFH2406815", "QZWFH2406816"
+    ],
+    "upc": "198886617662",
+    "track": [
+      { "@type": "MusicRecording", "name": "Intro", "duration": "PT2M27S" },
+      { "@type": "MusicRecording", "name": "Exodus", "duration": "PT4M8S" },
+      { "@type": "MusicRecording", "name": "Reasons", "duration": "PT4M44S" },
+      { "@type": "MusicRecording", "name": "Once Too Many", "duration": "PT2M39S" },
+      { "@type": "MusicRecording", "name": "Best Friend", "duration": "PT1M56S" },
+      { "@type": "MusicRecording", "name": "In Between", "duration": "PT4M27S" },
+      { "@type": "MusicRecording", "name": "Waters", "duration": "PT3M55S" },
+      { "@type": "MusicRecording", "name": "The Greatest (Extended)", "duration": "PT6M10S" },
+      { "@type": "MusicRecording", "name": "To Kill a Man", "duration": "PT7M42S" },
+      { "@type": "MusicRecording", "name": "Where did Tomorrow go?", "duration": "PT4M2S" },
+      { "@type": "MusicRecording", "name": "Have It All", "duration": "PT2M8S" },
+      { "@type": "MusicRecording", "name": "Outro", "duration": "PT1M20S" }
+    ],
+    "description": "Experimental Indie Folk Album by Samuel Quinyones, featuring 12 tracks on grief, identity, and survival.",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://tokillaman.bandcamp.com/album/to-kill-a-man",
+      "price": "0.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    "sameAs": [
+      "https://music.apple.com/us/album/to-kill-a-man/1770232969",
+      "https://open.spotify.com/album/2ybDWDhpt0qhULDPoJgYvJ",
+      "https://music.amazon.com/albums/B0DHQ6Q67F",
+      "https://link.deezer.com/s/30hJj6dtwI8Xuyf2T9hqw",
+      "https://www.pandora.com/artist/samuel-quinyones/to-kill-a-man/AL7Zd2kmbK69P3w",
+      "https://tokillaman.bandcamp.com/album/to-kill-a-man",
+      "https://soundcloud.com/tok_llaman/sets/tokillaman",
+      "https://tidal.com/album/388802187",
+      "https://music.youtube.com/playlist?list=OLAK5uy_mVNuQG8SAq5gNvDEBx52dbbfeFDxG5Rb8",
+      "https://www.iheart.com/artist/samuel-quinyones-42568802/albums/to-kill-a-man-290061369/",
+      "https://play.qobuz.com/album/jicdhzr15c5dc"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <h1>To Kill a Man</h1>
+  <p>Experimental Music Album by Samuel Quinyones. Listen now on all streaming platforms.</p>
+  <a href="https://tokillaman.bandcamp.com/album/to-kill-a-man" target="_blank">Listen on Bandcamp</a>
+</body>
+</html>
